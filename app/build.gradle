@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.acj.client.prosegur'
-    compileSdk 34
+    compileSdk 33
 
     sourceSets {
         main {
